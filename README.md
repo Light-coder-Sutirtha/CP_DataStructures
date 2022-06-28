@@ -1,2 +1,2 @@
-# To be used as a black box in some of the instances
+# Devised for a quick revision
  To be directly used for implementation
